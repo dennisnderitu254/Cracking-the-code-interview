@@ -5,7 +5,7 @@ class node:
         self.left = None
         self.right = None
 """
-
+#initialization of the max and min heap
 MIN = 0
 MAX = 10**4
 
